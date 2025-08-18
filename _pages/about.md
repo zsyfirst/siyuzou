@@ -17,14 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a PhD student in Epidemiology at Harvard University (since 2025), under the supervision of Dr. [Qi Sun](https://hsph.harvard.edu/profile/qi-sun/). My research interests include cardiovascular and clinical epidemiology, with a focus on blood pressure control and risk prediction for cardiovascular disease. I have published more than 30 papers <a href='https://scholar.google.com/citations?user=BqMKl_sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I earned my Master of Science degree in Epidemiology at Johns Hopkins University (2023-2025), under the supervision of Professor [Lawrence Appel](https://publichealth.jhu.edu/faculty/15/lawrence-j-appel) and [Kunihiro Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita). As a graduate research assistant working with Dr. Matsushita, I focus on Cardiovascular risk prediction using imaging biomarkers and published my work at [JACC: Cardiovascular Imaging](https://www.jacc.org/doi/abs/10.1016/j.jcmg.2025.05.014).
+
+Before this, I served as a full-time research assistant with Professor [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm) at Tsinghua University (2022-2023), where I published five first-author papers in journals, such as [*Public Health*](https://doi.org/10.1016/j.puhe.2022.01.021), [*International Health*](), [*Journal of Public Health*](https://doi.org/10.1093/pubmed/fdaa204), [*BMC Health Services Research*](https://doi.org/10.1186/s12913-022-07530-4) and [*BMJ sexual & reproductive health*](https://doi.org/10.1136/bmjsrh-2020-200766).
+
+My academic journey began with an MBBS degree (2017-2022) from Peking University, where I worked under the mentorship of Professor [Hong Zhou](https://sph.pku.edu.cn/info/1365/4151.htm) and published several papers in journals like [*Annals of General Psychiatry*](https://doi.org/10.1186/s12991-024-00515-z), [*European journal of nutrition*](https://doi.org/10.1007/s00394-021-02493-4) and [*PLoS Medicine*](https://doi.org/10.1371/journal.pmed.1003578).
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 My master thesis was accepted for publication in Journal of Hypertension.
+- *2022.07*: &nbsp;🎉🎉 My master work was published at JACC: Cardiovascular Imaging.
+- *2022.05*: &nbsp;🎉🎉 I received the Dorothy and Arthur Samet Student Support Fund in Epidemiology ($12,000) at Johns Hopkins.
+- *2025.02*: &nbsp;🎉🎉 I was admitted to the PhD Program in Population Health Sciences at Harvard!
 
 # 📝 Publications 
 
