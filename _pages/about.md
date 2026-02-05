@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Epidemiology at Harvard University (since 2025), under the supervision of Dr. [Qi Sun](https://hsph.harvard.edu/profile/qi-sun/). My research interests include cardiovascular and clinical epidemiology, with a focus on blood pressure control and risk prediction for cardiovascular disease. I have published more than 30 papers <a href='https://scholar.google.com/citations?user=BqMKl_sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a PhD student in Epidemiology at Harvard University (since 2025), under the supervision of Dr. [Qi Sun](https://hsph.harvard.edu/profile/qi-sun/). My research interests include cardiovascular and clinical epidemiology, with a focus on blood pressure control and risk prediction for cardiovascular disease. I have published more than 30 papers <a href='https://scholar.google.com/citations?user=BqMKl_sAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 I earned my Master of Science degree in Epidemiology at Johns Hopkins University (2023-2025), under the supervision of Professor [Lawrence Appel](https://publichealth.jhu.edu/faculty/15/lawrence-j-appel) and [Kunihiro Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita). As a graduate research assistant working with Dr. Matsushita, I focus on Cardiovascular risk prediction using imaging biomarkers and published my work at [JACC: Cardiovascular Imaging](https://www.jacc.org/doi/abs/10.1016/j.jcmg.2025.05.014).
 
@@ -31,7 +31,7 @@ My academic journey began with an MBBS degree (2017-2022) from Peking University
 - *2025.09*: &nbsp;🎉🎉 My master thesis was accepted for publication in Journal of Hypertension.
 - *2022.07*: &nbsp;🎉🎉 My master work was published at JACC: Cardiovascular Imaging.
 - *2022.05*: &nbsp;🎉🎉 I received the Dorothy and Arthur Samet Student Support Fund in Epidemiology ($12,000) at Johns Hopkins.
-- *2025.02*: &nbsp;🎉🎉 I was admitted to the PhD Program in Population Health Sciences at Harvard!
+- *2025.02*: &nbsp;🎉🎉 I was admitted to the PhD Program in CVD Epidemiology at Harvard!
 
 # 📝 Publications 
 
